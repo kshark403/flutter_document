@@ -1,0 +1,88 @@
+
+หารูป icon จาก google โดย search คำว่า logo 1024 x 1024 แล้วเลือกรูปแบบ transparent
+แล้ว save เป็นไฟล์นามสกุล png
+
+หา theme สำหรับ app โดย search คำว่า material color palette จะเจอ web site ชื่อว่า materialpalette.com
+
+หารูป story set สำหรับ app โดย search คำว่า storyset จะเจอ web site ชื่อว่า storyset.com มีรูป png สวยๆ สามารถเปลี่ยนสีให้กับรูปได้ด้วย
+
+หา flutter sample จาก
+https://itsallwidgets.com/
+
+เปลี่ยน package name
+ให้ add lib จาก pub_dev ที่ชื่อว่า change_app_package_name ใน dev_dependencies:
+แล้วรัน command 
+flutter pub run change_app_package_name:main com.chao.myapp
+
+วิธีการตรวจ performace ของ App เรา โดยการกด ctrl+shift+p แล้วพิมพ์
+Dart devtool แล้วเลือก Dart: open devtools
+แล้วเลือก open devtools in web browser
+
+https://learncodinghub.com/how-to-install-mysql-on-windows-without-admin-rights/
+
+https://stackoverflow.com/questions/55858735/how-to-set-different-mysql-database-for-testing
+
+https://knexjs.org/guide/migrations.html#migration-cli
+
+https://www.w3schools.com/sql/sql_autoincrement.asp
+
+https://stackoverflow.com/questions/58673430/error-secretorprivatekey-must-have-a-value
+
+https://stackoverflow.com/questions/2708992/mysql-limit-from-descending-order
+
+https://docs.flutter.dev/deployment/android#create-an-upload-keystore
+
+Example Git
+https://play.google.com/store/apps/details?id=com.pavlenko.Habo
+https://github.com/xpavle00/Habo
+https://play.google.com/store/apps/details?id=com.mindscape.calendar
+https://github.com/MrHKMY/Healthful-GymAndFitnessLog
+
+-- To create package
+flutter create --template=package account_api
+
+-- To generate the Json model
+app.quicktype.io
+https://javiercbk.github.io/json_to_dart/
+https://stackoverflow.com/questions/58360475/flutter-json-serialization-not-generating-g-dart-files
+flutter pub run build_runner build
+
+-- For stream and future 
+https://www.ninenik.com/%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5_Stream_%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87_%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99_Stream_%E0%B9%83%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2_Dart_%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99-962.html
+
+-- Flutter – two text in a row with left one overflowing gracefully
+https://stackoverflow.com/questions/51087681/flutter-two-text-in-a-row-with-left-one-overflowing-gracefully
+
+-- Bloc Pattern
+https://medium.com/@cheersupzoo/flutter-%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%82%E0%B8%B5%E0%B8%A2%E0%B8%99%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%AA%E0%B9%84%E0%B8%95%E0%B8%A5%E0%B9%8C-bloc-pattern-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A-noob-e5b1cf3f981b
+https://medium.com/@cheersupzoo/flutter-%E0%B8%A5%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87-todo-app-%E0%B9%82%E0%B8%94%E0%B8%A2%E0%B9%83%E0%B8%8A%E0%B9%89-bloc-pattern-%E0%B8%81%E0%B8%B1%E0%B8%99-b7810c99bf32
+
+-- Dart for Async/Await
+https://www.ninenik.com/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A%E0%B9%89%E0%B8%87%E0%B8%B2%E0%B8%99_Asynchronous_Programming_%E0%B9%83%E0%B8%99%E0%B8%A0%E0%B8%B2%E0%B8%A9%E0%B8%B2_Dart_%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%99-949.html
+
+-- For overlap widget
+https://stackoverflow.com/questions/49838021/how-do-i-stack-widgets-overlapping-each-other-in-flutter
+
+-- Update a single item in list
+https://stackoverflow.com/questions/56283870/how-to-update-a-single-item-in-flutter-list-as-a-best-way
+
+-- Android SDK version
+https://apilevels.com/
+
+-- Flutter has the functionality to shake out unused icons from Material, Cupertino, FontAwesome, etc. fonts.
+-- flutter build apk --split-per-abi --no-tree-shake-icons
+https://itnext.io/flutter-minimizing-tips-42113f02b678
+
+-- module-was-compiled-with-an-incompatible-version-of-kotlin
+https://stackoverflow.com/questions/67699823/module-was-compiled-with-an-incompatible-version-of-kotlin-the-binary-version-o
+
+
+-- youtube vance github
+https://github.com/cuynu/ytvancedx.git
+https://github.com/orgs/ReVanced/repositories
+https://github.com/ReVanced/revanced-manager
+
+Personal access tokens (classic) : 
+Tokens you have generated that can be used to access the GitHub API.
+Make sure to copy your personal access token now. You won’t be able to see it again!
+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
