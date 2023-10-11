@@ -86,3 +86,10 @@ Personal access tokens (classic) :
 Tokens you have generated that can be used to access the GitHub API.
 Make sure to copy your personal access token now. You won’t be able to see it again!
 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
+
+
+-- Example UI flutter
+https://github.com/ibhavikmakwana/FlutterPlayground/blob/6201689277474cb47f6c788445be71ac412b108f/lib/ui/drawer/NavigationDrawer.dart#L93
+
+-- Drawer Dynamic
+https://github.com/nickyrabit/NavigationDrawer-with-Dynamic-Menu-and-Submenu-using-Flutter-Pageview
