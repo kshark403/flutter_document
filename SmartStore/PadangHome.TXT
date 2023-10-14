@@ -1,0 +1,66 @@
+Register Report - All Dates
+
+11/01/2014 through 01/09/2050 (in U.S. Dollars)
+
+	Date	Account	Num	Description	Memo	Category	Tag	Clr	Amount	
+										
+	BALANCE 10/01/2014								0.00	
+	11/01/2014	A Padang Home		Marketting Price	Marketting Price	BA Aging Expense:Aging Expense			-2,677,871.02	
+	01/10/2014	A Padang Home		Opening Balance		[A Padang Home]			0.00	
+	23/10/2014	A Padang Home		Loan Mama Saving		[A Credit HomeLoan]			250,000.00	
+	24/10/2014	A Padang Home		Loan GSB Bank		[A Credit HomeLoan]			3,000,000.00	
+	24/10/2014	A Padang Home		Loan Ping Saving		[A Credit HomeLoan]			200,000.00	
+	16/10/2017	A Padang Home		Bank Expense	Statement from BBL	[A Credit HomeLoan]			100.00	
+	16/10/2017	A Padang Home		Bank Expense	Xerox and Print	[A Credit HomeLoan]			21.00	
+	16/10/2017	A Padang Home		Bank Expense	EMS documents	[A Credit HomeLoan]			42.00	
+	20/10/2017	A Padang Home		Bank Expense	Home Estimation	[A Credit HomeLoan]			2,300.00	
+	31/10/2017	A Padang Home		Transfer	For Home Loan Estimation	[A BBK 147]			2,300.00	
+	01/12/2017	A Padang Home		Bank Expense	Argon Stamp for Refinance	[A Credit HomeLoan]			120.00	
+	01/12/2017	A Padang Home		Bank Expense	Fire Insurance	[A Credit HomeLoan]			3,241.61	
+	01/12/2017	A Padang Home		Bank Expense	Service Charge GSB Sadao	[A Credit HomeLoan]			1,000.00	
+	30/04/2020	A Padang Home		Bank Expense	Fire Insurance 1-31/May/2020	[GHB Savings]			4,148.18	
+	30/11/2020	A Padang Home		Home Tax	72 months	B9 Home Padanbezar:Home Loan Tax			404,523.23	
+	28/12/2020	A Padang Home		Bank Expense	Argon Stamp for Refinance	[A BBK 147]			75.00	
+	02/09/2021	A Padang Home		Land Purchase	For Padang Land	[Bay Kept]			500,000.00	
+	01/01/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/02/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/03/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/04/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/05/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/06/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/07/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/08/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/09/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/10/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/11/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/12/2022	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/01/2023	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/02/2023	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/03/2023	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/04/2023	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/05/2023	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,880.00	
+	01/06/2023	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,120.00	
+	01/07/2023	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/08/2023	A Padang Home		Land Padang	20*15,500=310,000	[Bay Kept]			15,500.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[GSB Saving]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[BAY Saving]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[SCB Easy Saving]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[KBank]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[UOB One Account]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[GHB Expo Savings]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[GHB Savings]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[KTB BBK]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[GSB Slag]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[TBANK Saving]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[ME by TMB]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[TMB Lite]			5,000.00	
+	01/09/2050	A Padang Home		Bank Interest	For Padang Land	[TMB No Fixed]			5,000.00	
+	11/01/2014 - 01/09/2050								2,065,000.00	
+										
+	BALANCE 01/09/2050								2,065,000.00	
+										
+	TOTAL INFLOWS								4,742,871.02	
+										
+	TOTAL OUTFLOWS								-2,677,871.02	
+										
+	NET TOTAL								2,065,000.00	
