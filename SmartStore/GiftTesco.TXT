@@ -1,0 +1,254 @@
+Register Report - All Dates
+
+29/12/2015 through 14/10/2023 (in U.S. Dollars)
+
+	Date	Account	Num	Description	Memo	Category	Tag	Clr	Amount	
+										
+	BALANCE 28/12/2015								0.00	
+	29/12/2015	Gift Card Tesco		Opening Balance		[Gift Card Tesco]		R	0.00	
+	29/12/2015	Gift Card Tesco		Credit Return	Promotion for shopping reach up 10000 baht get 1000 for free	[*CD KSri FC 11-03-20]	Credit KSri FC 2nd		1,000.00	
+	05/01/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-31.00	
+	07/01/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-31.00	
+	15/01/2016	Gift Card Tesco		Jam & Bread	Jam @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-72.00	
+	22/01/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-31.00	
+	30/01/2016	Gift Card Tesco		Bath Equipment	Shampoo Panteen	B3 My Expense:Household:Bath Equipment:Shampoo	Gift Card Tesco		-109.00	
+	30/01/2016	Gift Card Tesco		Coffee & Milo	Milo 2 bags	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Milo	Gift Card Tesco		-198.00	
+	30/01/2016	Gift Card Tesco		Coffee & Milo	Birdy Coffee 2 bags	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Coffee	Gift Card Tesco		-164.00	
+	30/01/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		40.00	
+	15/02/2016	Gift Card Tesco		Coffee & Milo	Birdy Coffee	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Coffee	Gift Card Tesco		-81.00	
+	18/02/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-30.00	
+	20/02/2016	Gift Card Tesco		Coffee & Milo	Milk Canation	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Mali	Gift Card Tesco		-23.00	
+	21/02/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-31.00	
+	23/02/2016	Gift Card Tesco		Fanta	Fanta Green and Liquid Milk	B1 Monthly Expense:B2 Meal & Food:Food:Fanta	Gift Card Tesco		-46.00	
+	25/02/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-31.00	
+	25/02/2016	Gift Card Tesco		Coffee & Milo	Nescafe Coffee 77*5 bags	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Coffee	Gift Card Tesco		-90.00	
+	25/02/2016	Gift Card Tesco		Jam & Bread	Jam @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-72.00	
+	25/02/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD UOB Priv 27-18-25]	Credit UOB 1st		300.00	
+	01/03/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-31.00	
+	05/03/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-33.00	
+	05/03/2016	Gift Card Tesco		Fanta	Fanta Green 2	B1 Monthly Expense:B2 Meal & Food:Food:Fanta	Gift Card Tesco		-46.00	
+	09/03/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-33.00	
+	13/03/2016	Gift Card Tesco		Fanta	Fanta Green 2 (10% discount)	B1 Monthly Expense:B2 Meal & Food:Food:Fanta	Gift Card Tesco		-42.00	
+	13/03/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-33.00	
+	19/03/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-33.00	
+	21/03/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		75.00	
+	21/03/2016	Gift Card Tesco		Jam & Bread	Mayongnes @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-75.00	
+	21/03/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[*CD KBank 25-09-15]	Credit KBank 1st		300.00	
+	23/03/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-33.00	
+	27/03/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-33.75	
+	01/04/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		70.00	
+	01/04/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		100.00	
+	01/04/2016	Gift Card Tesco		Coffee & Milo	Milo 2 bags each of 15 sacks + free 2 sacks	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Milo	Gift Card Tesco		-196.00	
+	01/04/2016	Gift Card Tesco		Coffee & Milo	Milk Mali	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Mali	Gift Card Tesco		-44.00	
+	03/04/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco + 10 baht cash	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-23.00	
+	05/04/2016	Gift Card Tesco		Snack	Princo Snack	B1 Monthly Expense:B2 Meal & Food:Food:Snack	Gift Card Tesco		-35.00	
+	05/04/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[*CD KBank 25-09-15]	Credit KBank 1st		300.00	
+	07/04/2016	Gift Card Tesco		Snack	Lay Snack 4 bottle	B1 Monthly Expense:B2 Meal & Food:Food:Snack	Gift Card Tesco		-142.00	
+	08/04/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[-CD BBK 07-22-15]	Credit BBK 1st		300.00	
+	19/04/2016	Gift Card Tesco		Cooking	Black Sauce Cooking	B1 Monthly Expense:B2 Meal & Food:Food:Cooking:Sauce	Gift Card Tesco		-23.00	
+	23/04/2016	Gift Card Tesco		Cooking	Fish Sauce + Magi sause + Spicy power +  Namprig	B1 Monthly Expense:B2 Meal & Food:Food:Cooking:Sauce	Gift Card Tesco		-72.00	
+	23/04/2016	Gift Card Tesco		Milk	Milk Chocolate	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Chocolate	Gift Card Tesco		-95.25	
+	24/04/2016	Gift Card Tesco		Shoe	Flip flop Shoe	B3 My Expense:Clothing:Shoe	Gift Card Tesco		-79.00	
+	30/04/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-33.00	
+	03/05/2016	Gift Card Tesco		Milk	Milk Chocolate	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Chocolate	Gift Card Tesco		-89.00	
+	03/05/2016	Gift Card Tesco		Bath Equipment	Toothpasth Darlie 2 tubes	B3 My Expense:Household:Bath Equipment:Tooth Paste	Gift Card Tesco		-69.00	
+	04/05/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-33.00	
+	06/05/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-31.00	
+	12/05/2016	Gift Card Tesco		Milk	Milk Chocolate	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Chocolate	Gift Card Tesco		-89.00	
+	12/05/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-25.00	
+	12/05/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[-CD BBK 07-22-15]	Credit BBK 1st		300.00	
+	17/05/2016	Gift Card Tesco		Jam & Bread	Jam @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-72.00	
+	17/05/2016	Gift Card Tesco		Snack	Lay Snack 2 bottle	B1 Monthly Expense:B2 Meal & Food:Food:Snack	Gift Card Tesco		-71.00	
+	18/05/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD UOB Priv 27-18-25]	Credit UOB 1st		300.00	
+	20/05/2016	Gift Card Tesco		Milk	Milk Chocolate	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Chocolate	Gift Card Tesco		-89.00	
+	22/05/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-25.00	
+	26/05/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco + cash 8 baht	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-17.00	
+	28/05/2016	Gift Card Tesco		Milk	Milk Chocolate	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Chocolate	Gift Card Tesco		-89.00	
+	28/05/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-25.00	
+	04/06/2016	Gift Card Tesco		Milk	Milk Chocolate	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Chocolate	Gift Card Tesco		-89.00	
+	11/06/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[-CD BBK 07-22-15]	Credit BBK 1st		300.00	
+	14/06/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-25.00	
+	14/06/2016	Gift Card Tesco		IT Expense	Battery 2 AAA and 1 AA	B3 My Expense:IT Expense:Battery	Gift Card Tesco		-78.00	
+	15/06/2016	Gift Card Tesco		Milk	Milk Chocolate	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Chocolate	Gift Card Tesco		-95.25	
+	20/06/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		25.00	
+	20/06/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-25.00	
+	21/06/2016	Gift Card Tesco		Kitchen Devices	Film Saving Food	B3 My Expense:Household:Kitchen Devices	Gift Card Tesco		-69.00	
+	24/06/2016	Gift Card Tesco		Milk	Milk Chocolate	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Chocolate	Gift Card Tesco		-86.00	
+	24/06/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-25.00	
+	24/06/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		30.00	
+	29/06/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[*CD KBank 25-09-15]	Credit KBank 1st		300.00	
+	29/06/2016	Gift Card Tesco		Credit Return	Electric Plug 2 pieces each of 279 baht	[*CD KBank 25-09-15]	Tesco Voucher		-40.00	
+	29/06/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		40.00	
+	03/07/2016	Gift Card Tesco		Milk	Milk Chocolate	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Chocolate	Gift Card Tesco		-86.00	
+	05/07/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	06/07/2016	Gift Card Tesco		Credit Return	Rice 1 bag 10 kg	[*CD KBank 25-09-15]	Tesco Voucher		-60.00	
+	06/07/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		60.00	
+	10/07/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	15/07/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-83.00	
+	15/07/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	19/07/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	21/07/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		90.00	
+	21/07/2016	Gift Card Tesco		Credit Return	Electric Plug 2 pieces each of 279 baht	[CD UOB Priv 27-18-25]	Tesco Voucher		-90.00	
+	21/07/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD UOB Priv 27-18-25]	Credit UOB 1st		300.00	
+	24/07/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	24/07/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-83.00	
+	29/07/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	29/07/2016	Gift Card Tesco		Jam & Bread	Jam @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-72.00	
+	02/08/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-81.00	
+	02/08/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	05/08/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	06/08/2016	Gift Card Tesco		Milk	Milk Juice 22 baht	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Juice	Gift Card Tesco		-19.75	
+	08/08/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[-CD BBK 07-22-15]	Credit BBK 1st		300.00	
+	09/08/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	11/08/2016	Gift Card Tesco		Jam & Bread	Bread Holveet @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-35.00	
+	11/08/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-89.00	
+	11/08/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		15.00	
+	15/08/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD TMB Fast 12-01-20]	Credit TMB 1st		100.00	
+	17/08/2016	Gift Card Tesco		Jam & Bread	Jam @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-72.00	
+	17/08/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	17/08/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-89.00	
+	17/08/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		15.00	
+	19/08/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD TMB Fast 12-01-20]	Credit TMB 1st		300.00	
+	23/08/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	26/08/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-91.75	
+	26/08/2016	Gift Card Tesco		Fanta	Milinda Stawberry	B1 Monthly Expense:B2 Meal & Food:Food:Fanta	Gift Card Tesco		-25.00	
+	26/08/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		15.00	
+	27/08/2016	Gift Card Tesco		Rice	Rice 1 bag 5 kg	B1 Monthly Expense:B2 Meal & Food:Food:Rice	Gift Card Tesco		-145.00	
+	27/08/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.00	
+	27/08/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		25.00	
+	30/08/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.00	
+	31/08/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD UOB Priv 27-18-25]	Credit UOB 1st		300.00	
+	03/09/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-35.00	
+	03/09/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-83.00	
+	03/09/2016	Gift Card Tesco		Fanta	Milinda Stawberry	B1 Monthly Expense:B2 Meal & Food:Food:Fanta	Gift Card Tesco		-25.00	
+	03/09/2016	Gift Card Tesco		Coffee & Milo	Birdy Coffee Can	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Coffee	Gift Card Tesco		-13.00	
+	03/09/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		20.00	
+	08/09/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.25	
+	11/09/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.00	
+	14/09/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.00	
+	19/09/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD TMB Fast 12-01-20]	Credit TMB 1st		300.00	
+	20/09/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.00	
+	20/09/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		25.00	
+	25/09/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-89.00	
+	25/09/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.00	
+	25/09/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		25.00	
+	29/09/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.00	
+	01/10/2016	Gift Card Tesco		Coffee & Milo	5 Birdy Coffee Cans 9*5	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Coffee	Gift Card Tesco		-45.00	
+	01/10/2016	Gift Card Tesco		Fanta	Fanta Green 2	B1 Monthly Expense:B2 Meal & Food:Food:Fanta	Gift Card Tesco		-44.00	
+	02/10/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	06/10/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.00	
+	11/10/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.00	
+	14/10/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.00	
+	15/10/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD TMB Fast 12-01-20]	Credit TMB 1st		300.00	
+	21/10/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco+Banana 9.75 baht	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-41.75	
+	27/10/2016	Gift Card Tesco		Bath Equipment	Tooth Brush	B3 My Expense:Household:Bath Equipment:Tooth Brush	Gift Card Tesco		-34.00	
+	29/10/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	01/11/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-35.00	
+	03/11/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-80.00	
+	05/11/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-37.00	
+	07/11/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-35.00	
+	09/11/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-79.00	
+	10/11/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-37.00	
+	10/11/2016	Gift Card Tesco		Cooking	Tomato Sauce Phukaothong	B1 Monthly Expense:B2 Meal & Food:Food:Cooking:Sauce	Gift Card Tesco		-32.00	
+	10/11/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[-CD BBK 07-22-15]	Credit BBK 1st		300.00	
+	13/11/2016	Gift Card Tesco		Cloth Washing	Sunli liquid 2 bags	B3 My Expense:Household:Fab and Breeze	Gift Card Tesco		-69.00	
+	13/11/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-37.00	
+	13/11/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		10.00	
+	15/11/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-79.00	
+	17/11/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD TMB Fast 12-01-20]	Credit TMB 1st		300.00	
+	17/11/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-37.00	
+	20/11/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-37.00	
+	22/11/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-79.00	
+	22/11/2016	Gift Card Tesco		Milk	Fermented milk	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Juice	Gift Card Tesco		-40.00	
+	23/11/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[*CD GSB 18-02-15]	Credit GSB 1st		300.00	
+	23/11/2016	Gift Card Tesco		Milk	Fermented milk 4 in 1 Blueberry 3 bottles	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Juice	Gift Card Tesco		-66.00	
+	23/11/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-37.00	
+	24/11/2016	Gift Card Tesco		Milk	Fermented milk 4 in 1 for 3 bottles &missing 22 baht	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Juice	Gift Card Tesco		-85.25	
+	26/11/2016	Gift Card Tesco		Cooking	Tomato Sauce Phukaothong	B1 Monthly Expense:B2 Meal & Food:Food:Cooking:Sauce	Gift Card Tesco		-32.00	
+	27/11/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-35.00	
+	28/11/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD UOB Priv 27-18-25]	Credit UOB 1st		300.00	
+	28/11/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-79.00	
+	02/12/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-37.00	
+	02/12/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-89.00	
+	02/12/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD UOB Priv 27-18-25]	Credit UOB 1st		300.00	
+	06/12/2016	Gift Card Tesco		Milk	Fermented milk 4 in 1	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Juice	Gift Card Tesco		-24.00	
+	06/12/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-28.00	
+	06/12/2016	Gift Card Tesco		Fanta	Fanta Green	B1 Monthly Expense:B2 Meal & Food:Food:Fanta	Gift Card Tesco		-24.00	
+	09/12/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-91.75	
+	14/12/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-37.00	
+	14/12/2016	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-91.75	
+	14/12/2016	Gift Card Tesco		Kitchen Devices	Electric Kettle Pot discount from 219 baht @Lotus	B3 My Expense:Household:Kitchen Devices:Kettle	For Tax 2016		-175.00	
+	15/12/2016	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD TBANK 12-06-25]	Credit TBank 1st		300.00	
+	16/12/2016	Gift Card Tesco		Bath Equipment	Tooth Brush 4 in 1 for 2 set, 55*2	B3 My Expense:Household:Bath Equipment:Tooth Brush	For Tax 2016		-110.00	
+	18/12/2016	Gift Card Tesco		Bath Equipment	Lux Soap 3 packs	B3 My Expense:Household:Bath Equipment:Soap	For Tax 2016		-117.00	
+	18/12/2016	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		70.50	
+	19/12/2016	Gift Card Tesco		Bath Equipment	Toothpasth Darlie 2 tubes	B3 My Expense:Household:Bath Equipment:Tooth Paste	For Tax 2016		-79.00	
+	19/12/2016	Gift Card Tesco		Kitchen Devices	Soft Scottbrite @Tesco	B3 My Expense:Household:Cleaning Equipment:Scotbrite	For Tax 2016		-22.00	
+	20/12/2016	Gift Card Tesco		Toilet Equipment	Toilet Brush	B3 My Expense:Household:Cleaning Equipment:Toilet Brush	For Tax 2016		-67.00	
+	20/12/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	For Tax 2016		-37.00	
+	23/12/2016	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[CD KTC 21-05-15]	Credit KTC 1st		100.00	
+	24/12/2016	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[*CD GSB 18-02-15]	Credit GSB 1st		100.00	
+	26/12/2016	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-20.00	
+	26/12/2016	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[*CD KBank 25-09-15]	Credit KBank 1st		100.00	
+	27/12/2016	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[XCD Citibank 25-09-15]	Credit Citibank 1st		100.00	
+	28/12/2016	Gift Card Tesco		Bath Equipment	Tooth Brush buy 2 got 1 free of Bermen	B3 My Expense:Household:Bath Equipment:Tooth Brush	For Tax 2016		-32.00	
+	28/12/2016	Gift Card Tesco		Clothing	Sock 3 pieces	B3 My Expense:Clothing:Sock	Credit UOB 1st		-79.00	
+	08/01/2017	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	For Tax 2016		-35.00	
+	09/01/2017	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-79.00	
+	09/01/2017	Gift Card Tesco		Milk	Fermented milk	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Juice	Gift Card Tesco		-34.00	
+	10/01/2017	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[-CD BBK 07-22-15]	Credit BBK 1st		100.00	
+	11/01/2017	Gift Card Tesco		Rice	Rice Krong 1 bag 5 kg	B1 Monthly Expense:B2 Meal & Food:Food:Rice	Credit BBK 1st		-185.00	
+	11/01/2017	Gift Card Tesco		Credit Return	Tesco Cash Voucher	[CD Return]	Tesco Voucher		13.00	
+	12/01/2017	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[-CD BBK 07-22-15]	Credit BBK 1st		100.00	
+	12/01/2017	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	For Tax 2016		-35.00	
+	13/01/2017	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[CD TBANK 12-06-25]	Credit TBank 1st		100.00	
+	16/01/2017	Gift Card Tesco		Coffee & Milo	Birdy Coffee	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Coffee	Gift Card Tesco		-77.00	
+	16/01/2017	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-37.00	
+	17/01/2017	Gift Card Tesco		Bath Equipment	Toothpasth Colgate 2 tubes 2 In 1 boxes Jumbo	B3 My Expense:Household:Bath Equipment:Tooth Paste	Gift Card Tesco		-105.00	
+	18/01/2017	Gift Card Tesco		Jam & Bread	Jam @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-72.00	
+	18/01/2017	Gift Card Tesco		Milk	Fermented milk	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Juice	Gift Card Tesco		-34.00	
+	18/01/2017	Gift Card Tesco		My Coins		B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	My Coins		16.00	
+	20/01/2017	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[*CD GSB 18-02-15]	Credit GSB 1st		100.00	
+	20/01/2017	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-37.00	
+	22/01/2017	Gift Card Tesco		Bank Expense	Lost Gift Card	B3 My Expense:Bank Expense			-63.00	
+	23/01/2017	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[CD KTC 21-05-15]	Credit KTC 1st		100.00	
+	26/01/2017	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-82.00	
+	26/01/2017	Gift Card Tesco		Fanta	Fanta Green	B1 Monthly Expense:B2 Meal & Food:Food:Fanta	Gift Card Tesco		-23.00	
+	26/01/2017	Gift Card Tesco		My Coins		B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	My Coins		5.00	
+	27/01/2017	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[*CD KBank 25-09-15]	Credit KBank 1st		300.00	
+	02/02/2017	Gift Card Tesco		Egg	10 eggs @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Egg	Gift Card Tesco		-56.00	
+	03/02/2017	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-79.00	
+	03/02/2017	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-34.00	
+	10/02/2017	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-91.75	
+	10/02/2017	Gift Card Tesco		Snack	Mentosh Candy	B1 Monthly Expense:B2 Meal & Food:Food:Snack	Gift Card Tesco		-10.00	
+	10/02/2017	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[-CD BBK 07-22-15]	Credit BBK 1st		100.00	
+	14/02/2017	Gift Card Tesco		Coffee & Milo	Mocona 3 in 1 20 bags	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Coffee	Gift Card Tesco		-83.00	
+	14/02/2017	Gift Card Tesco		Milk	Fermented milk	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Juice	Gift Card Tesco		-32.00	
+	16/02/2017	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD TBANK 12-06-25]	Credit TBank 1st		300.00	
+	16/02/2017	Gift Card Tesco		Coffee & Milo	Mocona 3 in 1 20 bags	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Coffee	Gift Card Tesco		-83.00	
+	16/02/2017	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-34.00	
+	17/02/2017	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-39.00	
+	17/02/2017	Gift Card Tesco		Jam & Bread	Jam @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-89.00	
+	18/02/2017	Gift Card Tesco		Gift Card @Tesco	New Gift Card	[CD TBANK 12-06-25]	Credit TBank 1st		100.00	
+	20/02/2017	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[CD TBANK 12-06-25]	Credit TBank 1st		100.00	
+	20/02/2017	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-39.00	
+	20/02/2017	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-34.00	
+	20/02/2017	Gift Card Tesco		Milk	Fermented milk	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Juice	Gift Card Tesco		-32.00	
+	22/02/2017	Gift Card Tesco		Gift Card @Tesco	Filled Gift Card	[*CD GSB 18-02-15]	Credit GSB 1st		100.00	
+	22/02/2017	Gift Card Tesco		Milk	Milk Original	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Pure	Gift Card Tesco		-39.00	
+	22/02/2017	Gift Card Tesco		Coffee & Milo	Birdy 3 in 1	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Coffee	Gift Card Tesco		-82.00	
+	07/05/2017	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Credit Tesco 1st		-20.00	
+	29/05/2017	Gift Card Tesco		Milk	Fermented milk	B1 Monthly Expense:B2 Meal & Food:Food:Milk:Juice	Gift Card Tesco		-34.00	
+	29/05/2017	Gift Card Tesco		Jam & Bread	Bread @Tesco	B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Gift Card Tesco		-32.00	
+	31/05/2017	Gift Card Tesco		Coffee & Milo	Coffee tube @BigC	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Coffee			-21.00	
+	31/05/2017	Gift Card Tesco		Rabbit Card		B1 Monthly Expense:B2 Meal & Food:Food:Jam & Bread	Rabbit Card		21.00	
+	11/06/2017	Gift Card Tesco		Coffee & Milo	Birdy 3 in 1	B1 Monthly Expense:B2 Meal & Food:Food:Coffee & Milo:Coffee	Gift Card Tesco		-57.25	
+	29/12/2015 - 14/10/2023								0.00	
+										
+	BALANCE 14/10/2023								0.00	
+										
+	TOTAL INFLOWS								9,805.50	
+										
+	TOTAL OUTFLOWS								-9,805.50	
+										
+	NET TOTAL								0.00	
