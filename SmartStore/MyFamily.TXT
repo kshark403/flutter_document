@@ -1,0 +1,76 @@
+Register Report - All Dates
+
+31/12/2001 through 15/10/2023 (in U.S. Dollars)
+
+	Date	Account	Num	Description	Memo	Category	Tag	Clr	Amount	
+										
+	BALANCE 30/12/2001								0.00	
+	31/12/2001	A My Family		Marketting Price	Marketting Price	BA Aging Expense:Aging Expense			1,363,623.57	
+	01/01/2002	A My Family		Opening Balance		[A My Family]			0.00	
+	26/06/2002	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,755.40	
+	26/06/2003	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,755.40	
+	26/06/2004	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,755.40	
+	10/11/2004	A My Family		IT Expense	1st Notebook by Mom	B3 My Expense:IT Expense:Notebook			-40,700.00	
+	26/06/2005	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,755.40	
+	26/06/2006	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	17/04/2007	A My Family		Mueang Thai Saving Insurance		[Ins Muang 100K]			-24,900.00	
+	26/06/2007	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	17/04/2008	A My Family		Mueang Thai Saving Insurance		[Ins Muang 100K]			-24,900.00	
+	01/06/2008	A My Family		Opening Balance		[A My Family]			0.00	
+	01/06/2008	A My Family		Mama Loan		[A Credit HomeLoan]			-400,000.00	
+	26/06/2008	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	17/04/2009	A My Family		Mueang Thai Saving Insurance		[Ins Muang 100K]			-24,900.00	
+	26/06/2009	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	17/04/2010	A My Family		Mueang Thai Saving Insurance		[Ins Muang 100K]			-24,900.00	
+	26/06/2010	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	17/04/2011	A My Family		Mueang Thai Saving Insurance		[Ins Muang 100K]			-24,900.00	
+	26/06/2011	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	17/04/2012	A My Family		Mueang Thai Saving Insurance		[Ins Muang 100K]			-24,900.00	
+	26/06/2012	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	17/04/2013	A My Family		Mueang Thai Saving Insurance		[Ins Muang 100K]			-24,900.00	
+	26/06/2013	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	26/06/2014	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	02/10/2014	A My Family		Mama Loan		[A Credit HomeLoan]			-250,000.00	
+	02/10/2014	A My Family		Ping Loan		[A Credit HomeLoan]			-200,000.00	
+	26/06/2015	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	26/06/2016	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	26/06/2017	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	21/10/2017	A My Family		Bank Expense	Home Estimation	[A Credit HomeLoan]			-2,300.00	
+	26/06/2018	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-17,680.40	
+	26/06/2019	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-18,052.90	
+	26/06/2020	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-18,052.90	
+	29/09/2020	A My Family		Mobile Phone	Pu's True 065-4789897	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		428.00	
+	06/10/2020	A My Family		Mobile Phone	Pu's True 094-4935426	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		346.15	
+	07/10/2020	A My Family		Mobile Phone	Pu's True 065-4789897	[A BBK 147]	Family payback		-428.00	
+	15/10/2020	A My Family		Mobile Phone	Pu's True 094-4935426	[A BBK 147]	Family payback		-346.00	
+	28/10/2020	A My Family		Mobile Phone	Pu's True 065-4789897	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		214.00	
+	06/11/2020	A My Family		Mobile Phone	Pu's True 094-4935426	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		174.41	
+	01/12/2020	A My Family		Mobile Phone	Pu's True 065-4789897	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		209.72	
+	09/12/2020	A My Family		Mobile Phone	Pu's True 094-4935426	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		147.66	
+	28/12/2020	A My Family		Mobile Phone	Pu's True 065-4789897	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		209.72	
+	06/01/2021	A My Family		Mobile Phone	Pu's True 094-4935426	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		208.65	
+	11/01/2021	A My Family		Mobile Phone	Pu's True	[A BBK 147]	Family payback		-420.00	
+	28/01/2021	A My Family		Mobile Phone	Pu's True 065-4789897	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		209.72	
+	08/02/2021	A My Family		Mobile Phone	Pu's True 094-4935426	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		181.90	
+	14/02/2021	A My Family		Transfer	Borrow Mama	[KTB Padang]			-46,000.00	
+	01/03/2021	A My Family		Mobile Phone	Pu's True 065-4789897	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		209.72	
+	08/03/2021	A My Family		Mobile Phone	Pu's True 094-4935426	[CD UOB Priv 27-18-25]	Credit UOB Serm 1st		218.28	
+	09/03/2021	A My Family		Transfer	Borrow Mama	[KTB Padang]			46,000.00	
+	26/06/2021	A My Family		AIA Saving Insurance		[Ins AIA 150K]			-18,052.90	
+	05/09/2021	A My Family		Transfer	Fixing a van	[KTB Padang]			9,100.00	
+	06/09/2021	A My Family		Transfer	Fixing a van	[KTB Padang]			20,500.00	
+	12/10/2022	A My Family		Transfer	Fixing a van	[KTB Padang]			2,500.00	
+	20/10/2022	A My Family		Transfer	Fixing a van	[KTB Padang]			700.00	
+	28/12/2022	A My Family		Transfer	Fixing a van	[KTB Padang]			288.00	
+	10/01/2023	A My Family		Transfer	Buy Karntorng water	[KTB Padang]			9,600.00	
+	28/05/2023	A My Family		Transfer	Buy car's sticker for Mama	[SCB Easy Saving]			650.00	
+	30/05/2023	A My Family		Transfer	Fixing the van	[KTB Padang]			13,800.00	
+	31/12/2001 - 15/10/2023								0.00	
+										
+	BALANCE 15/10/2023								0.00	
+										
+	TOTAL INFLOWS								1,469,519.50	
+										
+	TOTAL OUTFLOWS								-1,469,519.50	
+										
+	NET TOTAL								0.00	
