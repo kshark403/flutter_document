@@ -1,0 +1,45 @@
+Register Report - All Dates
+
+17/12/2014 through 01/02/2027 (in U.S. Dollars)
+
+	Date	Account	Num	Description	Memo	Category	Tag	Clr	Amount	
+										
+	BALANCE 16/12/2014								0.00	
+	17/12/2014	Ins ALife 200K		Opening Balance	Cap. Ins. 200000	[Ins ALife 200K]			0.00	
+	18/12/2014	Ins ALife 200K		Saving Insurance	52000$ by KBank Card	[XCD KBank 19-02-13]	XCredit KBank 1st		52,000.00	
+	31/12/2014	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			-42,600.00	
+	14/12/2015	Ins ALife 200K		Saving Insurance By TMB	52000$ by TMB Card	[CD TMB Fast 12-01-20]	Credit TMB 1st		52,000.00	
+	31/12/2015	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			-25,200.00	
+	14/12/2016	Ins ALife 200K		Saving Insuranc		[CD TMB Fast 12-01-20]	Credit TMB 1st		52,000.00	
+	24/12/2016	Ins ALife 200K		Return Insurance	Return Insurance 2%	[A BBK 147]			-4,000.00	
+	31/12/2016	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			7,000.00	
+	14/12/2017	Ins ALife 200K		Saving Insuranc		[CD TMB Fast 12-01-20]	Credit TMB 1st		52,000.00	
+	30/12/2017	Ins ALife 200K		Return Insurance	Return Insurance 3%	[GHB Savings]			-6,000.00	
+	31/12/2017	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			3,400.00	
+	18/12/2018	Ins ALife 200K		Saving Insuranc	Alife Ins	[CD TMB Fast 12-01-20]	Credit TMB 1st		52,000.00	
+	27/12/2018	Ins ALife 200K		Return Insurance	Return Insurance 4%	[GHB Expo Savings]			-8,000.00	
+	31/12/2018	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			14,400.00	
+	31/12/2019	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			10,400.00	
+	03/01/2020	Ins ALife 200K		Return Insurance	Return Insurance 5%	[A BBK 147]			-10,000.00	
+	22/12/2020	Ins ALife 200K		Return Insurance	Return Insurance 5%	[Bay Kept]			-10,000.00	
+	31/12/2020	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			10,400.00	
+	18/12/2021	Ins ALife 200K		Return Insurance	Return Insurance 5%	[Bay Kept]			-10,000.00	
+	31/12/2021	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			10,400.00	
+	16/12/2022	Ins ALife 200K		Return Insurance	Return Insurance 5%	[Bay Kept]			-10,000.00	
+	31/12/2022	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			10,400.00	
+	31/12/2023	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			10,400.00	
+	01/01/2024	Ins ALife 200K		Return Insurance	Return Insurance 5%	[A BBK 147]			-10,000.00	
+	31/12/2024	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			10,600.00	
+	01/01/2025	Ins ALife 200K		Return Insurance	Return Insurance 5%	[A BBK 147]			-10,000.00	
+	31/12/2025	Ins ALife 200K		Insurance Expense	Insurance Expense	B3 My Expense:Insurance Expense			20,400.00	
+	01/01/2026	Ins ALife 200K		Return Insurance	Return Insurance 5%	[A BBK 147]			-10,000.00	
+	01/02/2027	Ins ALife 200K		Closing Insurance 106%		[Bay Kept]			-212,000.00	
+	17/12/2014 - 01/02/2027								0.00	
+										
+	BALANCE 01/02/2027								0.00	
+										
+	TOTAL INFLOWS								367,800.00	
+										
+	TOTAL OUTFLOWS								-367,800.00	
+										
+	NET TOTAL								0.00	
