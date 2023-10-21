@@ -97,3 +97,7 @@ https://github.com/nickyrabit/NavigationDrawer-with-Dynamic-Menu-and-Submenu-usi
 
 -- Save position of scroll list view
 https://stackoverflow.com/questions/60292911/how-to-get-flutter-scrollcontroller-to-save-position-of-listview-builder-when
+
+-- For many icons
+https://stackoverflow.com/questions/70401732/a-list-of-all-flutter-icons
+
