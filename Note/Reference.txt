@@ -101,3 +101,23 @@ https://stackoverflow.com/questions/60292911/how-to-get-flutter-scrollcontroller
 -- For many icons
 https://stackoverflow.com/questions/70401732/a-list-of-all-flutter-icons
 
+
+-- To access the json from github
+https://gist.github.com/fedarko/4fc177cff9084b9e325dcbe954547edc
+
+
+/*
+https://github.com/DjN3lson/cryptoo/blob/main/CodeCoinLogo.png
+
+should be change by
+https://github.com/DjN3lson/cryptoo/blob/main/CodeCoinLogo.png?raw=1
+https://github.com/kshark403/flutter_document/blob/main/Json/Spending_Manual_All.json?raw=1
+https://github.com/kshark403/flutter_document/blob/main/Json/backupCatgory.json?raw=1
+
+and then pop
+
+https://raw.githubusercontent.com/DjN3lson/cryptoo/main/CodeCoinLogo.png
+https://raw.githubusercontent.com/kshark403/flutter_document/main/Json/Spending_Manual_All.json
+https://raw.githubusercontent.com/kshark403/flutter_document/main/Json/backupCatgory.json
+*/
+
