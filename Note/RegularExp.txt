@@ -1,0 +1,24 @@
+
+
+(TO_Date\([^\)]*\))
+
+(\"category\":\")([^\"]*)(\")
+\1Others\3
+
+"accountName":"BBK147",
+
+(\"accountName\":\"[^\"]*\",)
+
+
+select count1 from TB_M_BUDGET_CHARGER_REJ union all 
+
+(select )(count1)( from )([^ ]*)( union all )
+\1 '\4\' tab_name, count\(1\) cnt \3\4\5
+
+
+{"id":${++id},"idHab":1,"idHabTo":-1,"repeat":"Only once","title":"Weekly Amount","money":-1000,"startDate":"${DateTime(2023, 01, 06)}","category":"42","isDeleted":false,"isPaided":true, "endAfter":"No end date", "endTimes":0, "endDate":"${Jiffy.parseFromDateTime(DateUtils.dateOnly(DateTime(2023, 01, 06))).add(days: 1).dateTime}"},
+{"id":${++id},"idHab":1,"idHabTo":-1,"repeat":"Only once","title":"Saving","money":100,"startDate":"${DateTime(2023, 01, 06)}","category":"43","isDeleted":false,"isPaided":true, "endAfter":"No end date", "endTimes":0, "endDate":"${Jiffy.parseFromDateTime(DateUtils.dateOnly(DateTime(2023, 01, 06))).add(days: 1).dateTime}"},
+{"id":${++id},"idHab":1,"idHabTo":-1,"repeat":"Only once","title":"Weekly Amount","money":-1000,"startDate":"${DateTime(2023, 01, 13)}","category":"42","isDeleted":false,"isPaided":true, "endAfter":"No end date", "endTimes":0, "endDate":"${Jiffy.parseFromDateTime(DateUtils.dateOnly(DateTime(2023, 01, 13))).add(days: 1).dateTime}"},
+{"
+
+(\"id\":)([^,]*)(,.*)
