@@ -1,0 +1,12 @@
+[
+{ "id": 1, "title": "A BBK 147", "twoDayRule": 1, "position": 0, "cue": "", "routine": "", "reward": "", "showReward": 0, "advanced": 1, "notification": 1, "notTime": "1:01", "events": {}, "spendings": [    
+{"id":4804,"idHab":1,"idHabTo":-1,"repeat":"Only once","title":"A Salary Net","money":0,"startDate":"2023-09-29 00:00:00.000","category":"4","isDeleted":0,"isPaided":1, "endAfter":"No end date", "endTimes":0, "idGrp":4810, "endDate":"2023-09-30 00:00:00.000","memo":""},
+{"id":4805,"idHab":1,"idHabTo":-1,"repeat":"Only once","title":"A Salary Net","money":2633.55,"startDate":"2023-09-29 00:00:00.000","category":"10","isDeleted":0,"isPaided":1, "endAfter":"No end date", "endTimes":0, "idGrp":4810, "endDate":"2023-09-30 00:00:00.000","memo":""},
+{"id":4806,"idHab":1,"idHabTo":-1,"repeat":"Only once","title":"A Salary Net","money":-0.85,"startDate":"2023-09-29 00:00:00.000","category":"2","isDeleted":0,"isPaided":1, "endAfter":"No end date", "endTimes":0, "idGrp":4810, "endDate":"2023-09-30 00:00:00.000","memo":""},
+{"id":4807,"idHab":1,"idHabTo":-1,"repeat":"Only once","title":"A Salary Net","money":3000,"startDate":"2023-09-29 00:00:00.000","category":"13","isDeleted":0,"isPaided":1, "endAfter":"No end date", "endTimes":0, "idGrp":4810, "endDate":"2023-09-30 00:00:00.000","memo":""},
+{"id":4808,"idHab":1,"idHabTo":-1,"repeat":"Only once","title":"A Salary Net","money":-750,"startDate":"2023-09-29 00:00:00.000","category":"6","isDeleted":0,"isPaided":1, "endAfter":"No end date", "endTimes":0, "idGrp":4810, "endDate":"2023-09-30 00:00:00.000","memo":""},
+{"id":4809,"idHab":1,"idHabTo":-1,"repeat":"Only once","title":"A Salary Net","money":-3115.6,"startDate":"2023-09-29 00:00:00.000","category":"7","isDeleted":0,"isPaided":1, "endAfter":"No end date", "endTimes":0, "idGrp":4810, "endDate":"2023-09-30 00:00:00.000","memo":""},
+{"id":4810,"idHab":1,"idHabTo":-1,"repeat":"Only once","title":"A Salary Net","money":87785,"startDate":"2023-09-29 00:00:00.000","category":"1","isDeleted":0,"isPaided":1, "endAfter":"No end date", "endTimes":0, "idGrp":4810, "endDate":"2023-09-30 00:00:00.000","memo":""},
+{"id":6013,"idHab":1,"idHabTo":66,"repeat":"Only once","title":"A Salary Net","money":-5267.1,"startDate":"2023-09-29 00:00:00.000","category":"","isDeleted":0,"isPaided":1, "endAfter":"No end date", "endTimes":0, "idGrp":4810, "endDate":"2023-09-30 00:00:00.000","memo":""}
+], "sanction": "", "showSanction": 0, "accountant": "" }
+]
