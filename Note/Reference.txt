@@ -127,3 +127,13 @@ https://github.com/Kuingsmile/PicHoro/blob/c39a1500b579b2ce8e148b5f0f7ba3ebacd98
 
 -- Web download
 https://stackoverflow.com/questions/59663377/how-to-save-and-download-text-file-in-flutter-web-application
+
+-- Link for google drive
+https://github.com/gbfool/Moneygram/tree/266ce020a74794db53189ac2972915782d78a78f
+https://github.com/SankethBK/diaryvault/tree/3107ed706e33c16f39d36305899c8c97b9d36c2c
+https://github.com/authpass/authpass/tree/a309d201f1d13c35abecf3d0cfb186ddbb371252
+https://stackoverflow.com/questions/68955545/flutter-how-to-backup-user-data-on-google-drive-like-whatsapp-does
+
+-- command to get SHA1
+keytool -list -v -alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore
+
