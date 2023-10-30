@@ -134,6 +134,9 @@ https://github.com/SankethBK/diaryvault/tree/3107ed706e33c16f39d36305899c8c97b9d
 https://github.com/authpass/authpass/tree/a309d201f1d13c35abecf3d0cfb186ddbb371252
 https://stackoverflow.com/questions/68955545/flutter-how-to-backup-user-data-on-google-drive-like-whatsapp-does
 
+-- Google API key
+https://console.cloud.google.com/apis/library?project=diary-app-339509
+
 -- command to get SHA1
 keytool -list -v -alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore
 
