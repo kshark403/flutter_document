@@ -140,3 +140,49 @@ https://console.cloud.google.com/apis/library?project=diary-app-339509
 -- command to get SHA1
 keytool -list -v -alias androiddebugkey -keystore %USERPROFILE%\.android\debug.keystore
 
+*****************  WARNING WARNING WARNING  *****************
+* The integrity of the information stored in your keystore  *
+* has NOT been verified!  In order to verify its integrity, *
+* you must provide your keystore password.                  *
+*****************  WARNING WARNING WARNING  *****************
+
+Alias name: androiddebugkey
+Creation date: Nov 20, 2022
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: C=US, O=Android, CN=Android Debug
+Issuer: C=US, O=Android, CN=Android Debug
+Serial number: 1
+Valid from: Sun Nov 20 13:54:46 ICT 2022 until: Tue Nov 12 13:54:46 ICT 2052
+Certificate fingerprints:
+         SHA1: 11:7D:66:5F:01:CD:09:EE:C3:C4:73:66:75:18:F8:C0:C7:41:A3:5C
+         SHA256: 35:D7:71:A2:45:4B:D4:9E:09:64:1B:F5:30:BD:25:CB:55:69:A8:82:21:8B:F7:36:79:77:7D:F4:48:58:06:A0
+Signature algorithm name: SHA1withRSA (weak)
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 1
+
+Warning:
+The certificate uses the SHA1withRSA signature algorithm which is considered a security risk. This algorithm will be dis
+abled in a future update.
+The JKS keystore uses a proprietary format. It is recommended to migrate to PKCS12 which is an industry standard format
+using "keytool -importkeystore -srckeystore C:\Users\chaovapan.panmee\.android\debug.keystore -destkeystore C:\Users\cha
+ovapan.panmee\.android\debug.keystore -deststoretype pkcs12".
+
+
+
+
+-- Command to run flutter web with fixed port number
+-- https://stackoverflow.com/questions/58248277/how-to-specify-a-port-number-while-running-flutter-web
+flutter run -d chrome --web-port=1234
+
+Solution for VS Code
+
+Go to settings
+Search for Dart: Flutter Run Additional Args
+Enter --web-port=1234
+Click Add Item
+
+
+-- Found error if no fingle print with SHA then cannot access Google drive.
+https://stackoverflow.com/questions/54557479/flutter-and-google-sign-in-plugin-platformexceptionsign-in-failed-com-google
