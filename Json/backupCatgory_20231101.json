@@ -287,15 +287,5 @@
 {"id":286,"name":"Earning","parentId":1},
 {"id":287,"name":"Gold","parentId":1},
 {"id":288,"name":"Opening Balance","parentId":1},
-{"id":289,"name":"Interest's clearing","parentId":1},
-{"id":290,"name":"Coffee & Milo","parentId":2},
-{"id":291,"name":"Cooking","parentId":2},
-{"id":292,"name":"Cloth Washing","parentId":2},
-{"id":293,"name":"Toilet Equipment","parentId":2},
-{"id":294,"name":"Clothing","parentId":2},
-{"id":295,"name":"My Coins","parentId":2},
-{"id":296,"name":"Rabbit Card","parentId":2},
-{"id":297,"name":"Marketting Price","parentId":2},
-{"id":298,"name":"Water Bill Condo","parentId":2},
-{"id":299,"name":"Commune80","parentId":2}
+{"id":289,"name":"Interest's clearing","parentId":1}
 ]
