@@ -186,3 +186,9 @@ Click Add Item
 
 -- Found error if no fingle print with SHA then cannot access Google drive.
 https://stackoverflow.com/questions/54557479/flutter-and-google-sign-in-plugin-platformexceptionsign-in-failed-com-google
+
+
+-- มาทำความรู้จักกับ Singletons และ Dependency Injection ใน Flutter ให้มากขึ้นกว่าเดิมกันเถอะ
+https://medium.com/20scoops-cnx/%E0%B8%A1%E0%B8%B2%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%81%E0%B8%B1%E0%B8%9A-singletons-%E0%B9%81%E0%B8%A5%E0%B8%B0-dependency-injection-%E0%B9%83%E0%B8%99-flutter-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%82%E0%B8%B6%E0%B9%89%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-e869a297fe22
+https://phongharit-pichaiwong.medium.com/
+
