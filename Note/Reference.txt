@@ -197,3 +197,8 @@ https://phongharit-pichaiwong.medium.com/
 -- https://stackoverflow.com/questions/61832322/problem-while-flutter-build-runner-register-generator-for-using-the-hive-databas
 -- https://github.com/isar/hive/issues/63
 flutter pub run build_runner build
+
+
+-- flow project
+https://github.com/LinwoodDev/Flow/tree/81bfd5664e909be179b3e25f93aa8bc281c8de78
+
